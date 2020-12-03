@@ -37,6 +37,11 @@
 			</dict>
 		</dict>
 	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>DemoProject needs to access your Camera</string>
+	
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>DemoProject need to access your Gallery</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string/>
 	<key>UILaunchStoryboardName</key>
